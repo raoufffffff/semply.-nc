@@ -1,10 +1,10 @@
 {
   "id": "68fbd9d54e45e6343ce6d721",
   "logo": "https://i.ibb.co/k2GBrQ97/Photography-Icons-in-Blue-removebg-preview.png",
-  "store_name": "next-commerce",
+  "store_name": "semply",
   "main_color": "#001637ff",
   "phone": "05 59840124",
-  "repoName": "semply.",
+  "repoName": "semply.-nc",
   "facebook": "https://www.facebook.com/",
   "instagram": "https://www.instagram.com/",
   "tiktok": "https://www.tiktok.com/",
@@ -31,5 +31,7 @@
   "facebookPixel": {
     "name": "next-commerce",
     "id": "next-commerce"
-  }
+  },
+  "language": "ar",
+  "EnableBerue": false
 }
